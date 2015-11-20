@@ -1,0 +1,9 @@
+E:\Programming\C#\TableSorter\TestTableSorter\bin\Debug\TestTableSorter.dll
+E:\Programming\C#\TableSorter\TestTableSorter\bin\Debug\TestTableSorter.pdb
+E:\Programming\C#\TableSorter\TestTableSorter\bin\Debug\TableSorter.exe
+E:\Programming\C#\TableSorter\TestTableSorter\bin\Debug\TableSorter.pdb
+E:\Programming\C#\TableSorter\TestTableSorter\obj\Debug\TestTableSorter.csprojResolveAssemblyReference.cache
+E:\Programming\C#\TableSorter\TestTableSorter\obj\Debug\TestTableSorter.dll
+E:\Programming\C#\TableSorter\TestTableSorter\obj\Debug\TestTableSorter.pdb
+E:\Programming\C#\TableSorter\TestTableSorter\bin\Debug\WebDriver.dll
+E:\Programming\C#\TableSorter\TestTableSorter\bin\Debug\WebDriver.xml
